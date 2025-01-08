@@ -1,12 +1,12 @@
-darknet/
+.idea
+darknet
 darknet/yolov3.weights
 darknet/libdarknet.so
 darknet/libdarknet.a
-data/images/
-data/labels/
-data/annotations/
+data/images
+data/labels
+data/annotations
 data/venv
 data/coco.names
 data/train.txt
 data/val.txt
-.idea/
